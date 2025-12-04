@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "toscca"]
 	path = toscca
-	url = https://github.com/cran/toscca
+	url = https://github.com/nuria-sv/toscca
